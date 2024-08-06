@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
     template: `
     <section>
         <h1>SAKURA RAMEN</h1>
-        <h2>BEST RAMEN IN TOWN</h2>
+        <h2 class="fontRaleway">BEST RAMEN IN TOWN</h2>
     </section>
     `,
     styleUrls: ['./landingPage.component.scss']
