@@ -1,0 +1,47 @@
+footer {
+    background-color: var(--footer);
+    height: 144px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 248px;
+  }
+  .logo-schrift {
+    height: 44px;
+  }
+  .social-medial {
+    height: 40px;
+    width: 40px;
+  }
+  .social-medial-img-1 {
+    height: 40px;
+    width: 40px;
+  }
+  .social-medial-img-1:hover {
+    transform: scale(1.1);
+  }
+  .social-medial-img-2 {
+    height: 40px;
+    width: 40px;
+    margin-left: 8px;
+  }
+  .social-medial-img-2:hover {
+    transform: scale(1.1);
+  }
+  .social-medial-img-3 {
+    height: 40px;
+    width: 40px;
+    margin-left: 8px;
+  }
+  .social-medial-img-3:hover {
+    transform: scale(1.1);
+  }
+  /* --------- */
+  .imprint {
+    color: whitesmoke;
+    text-decoration: none;
+    cursor: pointer;
+    &:hover {
+        color: aqua;
+    }
+  }
