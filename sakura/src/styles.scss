@@ -908,3 +908,9 @@ $white: white;
     align-items: $ai;
     gap: $g;
 }
+
+footer {
+display: flex;
+justify-content: center;
+align-items: center;
+}
